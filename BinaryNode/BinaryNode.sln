@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryNode", "BinaryNode\BinaryNode.vcxproj", "{997CB879-DC81-47BA-8853-A3242E0272C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997CB879-DC81-47BA-8853-A3242E0272C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{997CB879-DC81-47BA-8853-A3242E0272C6}.Debug|Win32.Build.0 = Debug|Win32
+		{997CB879-DC81-47BA-8853-A3242E0272C6}.Release|Win32.ActiveCfg = Release|Win32
+		{997CB879-DC81-47BA-8853-A3242E0272C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
